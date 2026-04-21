@@ -35,7 +35,7 @@ Para ensamblar este módulo, se requieren los siguientes componentes:
 | 7	| C9-15 | Capacitor Cerámico 0.1uF |
 | 1	| C16 | Capacitor Cerámico 0.047uF |
 | 1	| C17 | Capacitor Cerámico 100pF |
-| 4	| D1-4 | Display 7 segmento, ánodo común |
+| 4	| D1-4 | Display 7 segmentos, ánodo común |
 | 1	| D5 | Diodo Zener 2.4V |
 | 1	| J1 | Bornera 2 pines |
 | 1	| JP1-6 | 1x02 Pin header con jumpers |
