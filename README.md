@@ -14,7 +14,7 @@ El ICL7107 es un circuito integrado ampliamente utilizado en la instrumentación
 - Visualización: 3.5 dígitos para displays de siete segmentos (ánodo común).
 - Alimentación: $$+5VDC$$ vía microUSB, internamente contiene circuito inversor para el $$-5VDC$$.
 - Ajustes: Potenciómetro de precisión para calibración de voltaje de referencia.
-- Software de Diseño: KiCad EDA 7.0 (o superior).
+- Software de Diseño: [KiCad EDA](https://www.kicad.org/)  9.0 (o superior).
 
 ## Esquema del Circuito
 
@@ -50,7 +50,7 @@ Para ensamblar este módulo, se requieren los siguientes componentes:
 | 1	| SW1 | Pulsador 6mm |
 | 3	| SW2-4 | Switch, CuK OS102011MA1QN1 o similar |
 | 1	| TP1-2 | Punta de prueba, Keystone 5010 o similar |
-| 1	| U1 | Base de 40 pines + ICL7107CPL |
+| 1	| U1 | Base de 40 pines + ICL7107 |
 | 1	| U2 | Base de 16 pines + MAX232 |
 | 1	| U3 | Regulador LM7905 |
 
@@ -66,7 +66,7 @@ Clona el repositorio:
 
 Abre el archivo .kicad_pro con KiCad para revisar el PCB o generar los archivos Gerber para fabricación.
 
-Consulta la carpeta datasheets para entender los límites operativos del integrado.
+Consulta la datasheet para entender los límites operativos del integrado.
 
 ## Contribuciones y Licencia
 Este proyecto está bajo la licencia MIT. Las sugerencias de mejora para el entorno académico de la Escuela de Ingeniería Eléctrica son bienvenidas.
