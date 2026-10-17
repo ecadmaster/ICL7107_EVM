@@ -1,5 +1,8 @@
 # ICL7107 Evaluation Module (EVM)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![KiCad](https://img.shields.io/badge/KiCad-EDA-blue.svg)](https://kicad.org/)
+
 ![ecl7107-3d](_media/ICL7107_EVM.gif)
 
 Este repositorio contiene el diseño de hardware de una tarjeta de evaluación para el ICL7107, un convertidor analógico-digital (ADC) de 3.5 dígitos diseñado para controlar displays LED. Este proyecto se desarrolla como material de práctica para la asignatura Laboratorio de Electrónica II de la Universidad de Los Andes (ULA).
